@@ -2,7 +2,7 @@
 
 Industrial IoT Long Range Wireless AC Voltage Monitor Sesnor With 2 Mile Range can be found over here
 
-https://store.ncd.io/product/wireless-ac-current-monitor/
+https://store.ncd.io/product/iot-long-range-wireless-ac-voltage-monitor-sensor/
 
 this Labview software will work with ncd.io Wireless AC Voltage Monitor Sensor only
 
